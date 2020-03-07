@@ -6,9 +6,7 @@ LABEL "com.github.actions.icon"="anchor"
 LABEL "com.github.actions.color"="blue"
 
 LABEL version=v0.2.6
-LABEL repository="https://github.com/opspresso/action-docker"
-LABEL maintainer="Jungyoul Yu <me@nalbam.com>"
-LABEL homepage="https://opspresso.com/"
+LABEL repository="https://github.com/hhcalder92/action-docker"
 
 ADD entrypoint.sh /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
