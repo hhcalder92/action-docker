@@ -1,4 +1,4 @@
-name: "Docker Push"
+name: "Docker Push With Args"
 description: "build, tag and pushes the container"
 author: "Jungyoul Yu <@nalbam>"
 
